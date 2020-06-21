@@ -1,0 +1,33 @@
+title,geo_accession,organism,description,virus_strain,ferret_id,timepoint_days,sample_type,treatment
+Series10_FerretNW_Ctl_d1_1,GSM4462381,Mustela putorius furo,MfNL_Gr4_d1_870,NA,870,1,nasal_wash,Mock treatment
+Series10_FerretNW_Ctl_d1_2,GSM4462382,Mustela putorius furo,MfNL_Gr4_d1_873,NA,873,1,nasal_wash,Mock treatment
+Series10_FerretNW_SARS-CoV-2_d1_1,GSM4462383,Mustela putorius furo,MfNL_Gr2_d1_872,USA-WA1/2020,872,1,nasal_wash,SARS-CoV-2 infected (5E4 PFU)
+Series10_FerretNW_SARS-CoV-2_d1_2,GSM4462384,Mustela putorius furo,MfNL_Gr3_d1_877,USA-WA1/2020,877,1,nasal_wash,SARS-CoV-2 infected (5E4 PFU)
+Series11_FerretNW_Ctl_d3_1,GSM4462385,Mustela putorius furo,MfNL_Gr4_d3_870,NA,870,3,nasal_wash,Mock treatment
+Series11_FerretNW_Ctl_d3_2,GSM4462386,Mustela putorius furo,MfNL_Gr4_d3_873,NA,873,3,nasal_wash,Mock treatment
+Series11_FerretNW_SARS-CoV-2_d3_1,GSM4462387,Mustela putorius furo,MfNL_Gr2_d3_872,USA-WA1/2020,872,3,nasal_wash,SARS-CoV-2 infected (5E4 PFU)
+Series11_FerretNW_SARS-CoV-2_d3_2,GSM4462388,Mustela putorius furo,MfNL_Gr3_d3_877,USA-WA1/2020,877,3,nasal_wash,SARS-CoV-2 infected (5E4 PFU)
+Series12_FerretNW_Ctl_d7_1,GSM4462389,Mustela putorius furo,Mf_NL_Gr4_d7_870,NA,870,7,nasal_wash,Mock treatment
+Series12_FerretNW_Ctl_d7_2,GSM4462390,Mustela putorius furo,Mf_NL_Gr4_d7_873,NA,873,7,nasal_wash,Mock treatment
+Series12_FerretNW_SARS-CoV-2_d7_1,GSM4462391,Mustela putorius furo,Mf_NL_Gr3_d7_376,USA-WA1/2020,876,7,nasal_wash,SARS-CoV-2 infected (5E4 PFU)
+Series12_FerretNW_SARS-CoV-2_d7_2,GSM4462392,Mustela putorius furo,Mf_NL_Gr3_d7_877,USA-WA1/2020,877,7,nasal_wash,SARS-CoV-2 infected (5E4 PFU)
+Series12_FerretNW_IAV_d7_1,GSM4462393,Mustela putorius furo,pH1N1-d7-nw-F5572,A/California/04/2009 (pH1N1),,7,nasal_wash,IAV infected (1E5 PFU)
+Series12_FerretNW_IAV_d7_2,GSM4462394,Mustela putorius furo,pH1N1-d7-nw-F5576,A/California/04/2009 (pH1N1),,7,nasal_wash,IAV infected (1E5 PFU)
+Series13_FerretNW_Ctl_d14_1,GSM4462395,Mustela putorius furo,Naive-F873-14dpi-indexF9,NA,873,14,nasal_wash,Mock treatment
+Series13_FerretNW_Ctl_d14_2,GSM4462396,Mustela putorius furo,Naive-F873-B-14dpi-indexF7,NA,873,14,nasal_wash,Mock treatment
+Series13_FerretNW_SARS-CoV-2_d14_1,GSM4462397,Mustela putorius furo,USA-WA1-2020-F876-14dpi-indexE7,USA-WA1/2020,876,14,nasal_wash,SARS-CoV-2 infected (5E4 PFU)
+Series13_FerretNW_SARS-CoV-2_d14_2,GSM4462398,Mustela putorius furo,USA-WA1-2020-F877-14dpi-indexE9,USA-WA1/2020,877,14,nasal_wash,SARS-CoV-2 infected (5E4 PFU)
+Series14_FerretTrachea_Ctl_d3_1,GSM4462399,Mustela putorius furo,Mf-trachea-mock-3d-F751,NA,751,3,trachea,Mock treatment
+Series14_FerretTrachea_Ctl_d3_2,GSM4462400,Mustela putorius furo,Mf-trachea-mock-3d-F752,NA,752,3,trachea,Mock treatment
+Series14_FerretTrachea_Ctl_d3_3,GSM4462401,Mustela putorius furo,Mf-trachea-naive-3d-F751,NA,751,3,trachea,Mock treatment
+Series14_FerretTrachea_Ctl_d3_4,GSM4462402,Mustela putorius furo,Mf-trachea-naive-3d-F752,NA,752,3,trachea,Mock treatment
+Series14_FerretTrachea_SARS-CoV-2_d3_1,GSM4462403,Mustela putorius furo,Mf-Tr-16,USA-WA1/2020,16,3,trachea,SARS-CoV-2 infected (5E4 PFU)
+Series14_FerretTrachea_SARS-CoV-2_d3_2,GSM4462404,Mustela putorius furo,Mf-Tr-17,USA-WA1/2020,17,3,trachea,SARS-CoV-2 infected (5E4 PFU)
+Series14_FerretTrachea_SARS-CoV-2_d3_3,GSM4462405,Mustela putorius furo,Mf-Tr-18,USA-WA1/2021,18,3,trachea,SARS-CoV-2 infected (5E4 PFU)
+Series14_FerretTrachea_SARS-CoV-2_d3_4,GSM4462406,Mustela putorius furo,Mf-Tr-19,USA-WA1/2022,19,3,trachea,SARS-CoV-2 infected (5E4 PFU)
+Series14_FerretTrachea_IAV_d3_1,GSM4462407,Mustela putorius furo,Mf-trachea-H3N2-3d-F531-1,"A/Texas/71/2017, clade 3C.3a (H3N2)",531,3,trachea,IAV infected (1E5 PFU)
+Series14_FerretTrachea_IAV_d3_2,GSM4462408,Mustela putorius furo,Mf-trachea-H3N2-3d-F531-2,"A/Texas/71/2017, clade 3C.3a (H3N2)",531,3,trachea,IAV infected (1E5 PFU)
+Series14_FerretTrachea_IAV_d3_3,GSM4462409,Mustela putorius furo,Mf-trachea-H3N2-3d-F532-1,"A/Texas/71/2017, clade 3C.3a (H3N2)",532,3,trachea,IAV infected (1E5 PFU)
+Series14_FerretTrachea_IAV_d3_4,GSM4462410,Mustela putorius furo,Mf-trachea-H3N2-3d-F532-2,"A/Texas/71/2017, clade 3C.3a (H3N2)",532,3,trachea,IAV infected (1E5 PFU)
+Series14_FerretTrachea_IAV_d3_5,GSM4462411,Mustela putorius furo,Mf-trachea-H3N2-3d-F533-1,"A/Texas/71/2017, clade 3C.3a (H3N2)",533,3,trachea,IAV infected (1E5 PFU)
+Series14_FerretTrachea_IAV_d3_6,GSM4462412,Mustela putorius furo,Mf-trachea-H3N2-3d-F533-2,"A/Texas/71/2017, clade 3C.3a (H3N2)",533,3,trachea,IAV infected (1E5 PFU)
